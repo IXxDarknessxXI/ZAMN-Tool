@@ -11,7 +11,7 @@ MORADO = "\033[95m"
 RESET = "\033[0m"
 
 zamn =f"""
-{MORADO}[Tool Creado por Kurumi Tokisaki/TempestSquad]
+{MORADO}[Tool Creado por Darkness de ZaphkielSquad]
 
 {MORADO}(v1.1)
 {AMARILLO}
