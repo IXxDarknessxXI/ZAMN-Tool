@@ -1,6 +1,7 @@
 # Herramienta de Criptografía con Fernet ZAMN Tool
 
 ## Descripción
+![Imagen de la herramienta](image.png)
 
 Esta herramienta permite encriptar y desencriptar archivos y mensajes de texto utilizando el algoritmo de criptografía simétrica **Fernet** de la librería `cryptography`. Ofrece dos opciones principales: encriptación y desencriptación de archivos y mensajes.
 
